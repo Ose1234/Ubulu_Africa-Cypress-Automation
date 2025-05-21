@@ -35,8 +35,7 @@ To get this project up and running on your local machine, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Ose1234/Ubulu_Africa-Cypress-Automation.git
 
 2. Install Node.js:
    
